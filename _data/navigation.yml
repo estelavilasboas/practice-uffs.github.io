@@ -1,0 +1,29 @@
+# Site navigation links
+
+# Top navbar
+
+- title: O programa
+  excerpt: "Programa Practice"
+  image:
+  dropdown:
+    - title: Em construção
+      url: /
+    # - title: Apresentação
+    #   url: /sobre
+    # - title: Pessoas
+    #   url: /pessoas
+    # - title: ---
+    # - title: Notícias
+    #   url: /noticias
+
+- title: Serviços
+  excerpt: "Serviços Practice"
+  dropdown:
+    - title: Em construção
+      url: /
+
+- title: Parcerias
+  excerpt: "Parcerias Practice"
+  dropdown:
+    - title: Em construção
+      url: /
