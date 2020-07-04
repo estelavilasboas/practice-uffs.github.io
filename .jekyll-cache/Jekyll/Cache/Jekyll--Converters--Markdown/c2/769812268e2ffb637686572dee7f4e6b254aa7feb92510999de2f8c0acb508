@@ -1,0 +1,95 @@
+I"�<p>Estão disponíveis os horários e as disciplinas optativas para o primeiro semestre de 2020.</p>
+
+<p>Os horários para o primeiro semestre de 2020 já estão disponíveis em <a href="https://cc.uffs.edu.br/horario/">https://cc.uffs.edu.br/horario/</a>. Esses horários foram decididos e homologados pelo Colegiado do Curso. Embora há poucas chances que ele seja alterado, alterações podem acontecer conforme demandas da Coordenação Acadêmica em virtude de alocações fora do controle da Coordenação do Curso.</p>
+
+<p>Em caso de dúvidas sobre os horários ou disciplinas, escreva para <a href="computacao.ch@uffs.edu.br">mailto:computacao.ch@uffs.edu.br</a>.</p>
+
+<h3 id="disciplinas-optativas">Disciplinas Optativas</h3>
+
+<p>Em 2020.1 haverá a oferta de quatro disciplinas optativas. Uma delas, <em>Extração de Assuntos Recorrentes em Coleções de Documentos (Tópicos Especiais em Computação VIII)</em>, do professor Denio Duarte, será ministrada inteiramente no idioma Inglês (tanto as aulas quanto os materiais).</p>
+
+<p>Confira abaixo a lista de disciplinas optativas disponíveis em 2020.1.</p>
+
+<hr />
+
+<h2 id="extração-de-assuntos-recorrentes-em-coleções-de-documentos-tópicos-especiais-em-computação-viii">Extração de Assuntos Recorrentes em Coleções de Documentos (Tópicos Especiais em Computação VIII)</h2>
+
+<blockquote>
+  <p><strong>IMPORTANTE:</strong> essa disciplina será ministrada inteiramente no idioma <strong>Inglês</strong> (aulas e materiais).</p>
+</blockquote>
+
+<p><strong>Docente:</strong> Denio Duarte</p>
+
+<p><strong>Objetivo geral:</strong>
+Capacitar o acadêmico a realizar análises exploratórios em grandes coleções de documentos (e.g., redes sociais, artigos científicos, notícias) afim descobrir padrões e estruturas em dados complexos e multidimensionais (documentos).</p>
+
+<p><strong>Relação dos conteúdos a serem abordados:</strong>
+Introdução ao aprendizado de máquina; aprendizado não supervisionado; modelagem probabilística de tópicos; documentos longos e curtos; abordagens para modelagem de tópicos; pré-tratamento da coleção de documentos; métricas de avaliação</p>
+
+<p><strong>Metodologia:</strong>
+Aulas expositivas e práticas.</p>
+
+<p><strong>Conhecimentos prévios necessários:</strong>
+Banco de dados; estatística e probabilidade; matemática básica.</p>
+
+<hr />
+
+<h2 id="modelagem-e-simulação">Modelagem e Simulação</h2>
+
+<p><strong>Docente:</strong>
+Braulio Adriano de Mello</p>
+
+<p><strong>Objetivo geral:</strong>
+Fornecer fundamentos teóricos e práticos para o desenvolvimento de mecanismos de
+suporte a simulação de sistemas e de modelos de simulação como ferramenta de apoio à verificação, validação, construção de sistemas reais, de treinamento, entre outras aplicações</p>
+
+<p><strong>Relação dos conteúdos a serem abordados:</strong>
+Conceitos e aplicações de modelagem e simulação. Propriedades, classificação e processo de projeto de modelos de simulação. Simulação discreta e contínua. Escalonamento, probabilidade e variabilidade em modelos. Metodologias, técnicas e ferramentas para modelagem e simulação computacional. Verificação e validação de modelos. Simulação paralela e distribuída. Modelos heterogêneos e de sincronização híbrida. Arquiteturas e formalismos de simulação. Estudos de casos e tendências em simulação computacional.</p>
+
+<p><strong>Metodologia:</strong>
+A disciplina prevê duas etapas gerais. A primeira etapa visa a apresentação e discussão dos fundamentos de simulação computacional relacionando conceitos, características, requisitos, aplicações e tendências. A segunda etapa visa o desenvolvimento de projeto orientado com o objetivo de experimentar as perspectivas de aplicação em simulação enquanto integra fundamentos abordados no percurso do curso (componentes do bloco de fundamentos). Os encontros terão abordagens expositivas/dialogadas para aprendizado de conceitos específicos e atividades práticas no projeto e implementação de estudos de caso a serem definidas em conjunto com o grupo de estudantes.</p>
+
+<p><strong>Conhecimentos prévios necessários:</strong>
+Estrutura de dados e noções de probabilidade</p>
+
+<hr />
+
+<h2 id="tópicos-em-automação-de-projeto-de-circuitos-eletrônicos-eda-tópicos-especiais-em-computação-ix">Tópicos em Automação de projeto de circuitos eletrônicos (EDA) (Tópicos Especiais em Computação IX)</h2>
+
+<p><strong>Docente:</strong>
+Emílio Wuerges</p>
+
+<p><strong>Objetivo Geral:</strong>
+Compreender o fluxo de projeto de circuitos eletrônicos (VLSI) e construir ferramentas para automação do projeto.</p>
+
+<p><strong>Relação dos conteúdos a serem abordados:</strong>
+Fluxo de projeto de VLSI: Especificação -&gt; Projeto  -&gt; Codificação RTL -&gt; Verificação Funcional -&gt; Síntese -&gt; Simulação -&gt; Posicionamento e Roteamento -&gt; Fabricação -&gt; Validação. Representação computacional de funções booleanas (BDDs). Representação computacional de componentes (Grafos e árvores de intervalos). Desafios de Automação de Projeto (ICCAD Contest).</p>
+
+<p><strong>Metodologia:</strong>
+A disciplina terá uma parte inicial onde serão apresentados os conteúdos e, em seguida, os desafios propostos nas edições passadas do ICCAD contest.
+O restante da disciplina será conduzida através de um projeto, escolhido a partir de um dos desafios do ICCAD Contest.</p>
+
+<p><strong>Conhecimentos prévios necessários:</strong>
+Estruturas de dados, álgebra booleana e teoria dos grafos.</p>
+
+<hr />
+
+<h2 id="redes-ópticas-elásticas-tópicos-especiais-em-computação-i">Redes Ópticas Elásticas (Tópicos Especiais em Computação I)</h2>
+
+<p><strong>Docente:</strong> Claunir Pavan</p>
+
+<p><strong>Objetivo geral:</strong>
+Produção de um artigo científico na área de redes ópticas elásticas</p>
+
+<p><strong>Objetivo específico:</strong>
+Identificar, propor e implementar metodologias, algoritmos e heurísticas para o tratamento de problemas recentes na área de redes ópticas elásticas.</p>
+
+<p><strong>Relação dos Conteúdos a serem abordados:</strong>
+Redes ópticas elásticas – caracterização, proteção e restauro, métodos de roteamento, modulação e alocação de espectro; análise de desempenho de topologias e heurísticas para otimização de variáveis de mérito (ex. Taxa de bloqueio e confiabilidade). Estudo de artigos científicos.</p>
+
+<p><strong>Metodologia:</strong>
+O CCR será conduzido inicialmente com aulas expositivas e dialogadas, evoluindo para uma metodologia de aprendizado ativo, em que os estudantes serão desafiados a propor e desenvolver soluções (individualmente e em grupos), de problemas reais da área de redes ópticas elásticas.</p>
+
+<p><strong>Conhecimentos prévios necessários:</strong>
+Teoria dos grafos.</p>
+:ET
