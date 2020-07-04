@@ -6,12 +6,10 @@
   excerpt: "Programa Practice"
   image:
   dropdown:
-    - title: Em construção
-      url: /
     # - title: Apresentação
     #   url: /sobre
-    # - title: Pessoas
-    #   url: /pessoas
+    - title: Pessoas
+      url: /pessoas
     # - title: ---
     # - title: Notícias
     #   url: /noticias
